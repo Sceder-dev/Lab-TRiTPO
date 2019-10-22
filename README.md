@@ -27,7 +27,7 @@
 
 **Генерация логин/пароля**
 
-![Генерация](/Images/activity.png)  
+![Генерация](/Images/activities.png)  
 
 <a name="model"/>
 
